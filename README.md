@@ -1,0 +1,1 @@
+This is a Sudoku puzzle solver that extracts the given sudoku puzzle using opencv image manipulation and a MINST dataset trained model by Kunal Jain. The puzzle is then solved using a backtracking algorithm.
